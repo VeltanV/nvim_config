@@ -1,0 +1,5 @@
+require("Ben.remap")
+require("Ben.set")
+require("Ben.packer")
+require("Ben.lualine")
+vim.cmd("colorscheme kanagawa")
